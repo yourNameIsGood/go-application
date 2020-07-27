@@ -1,0 +1,4 @@
+[INFO][auth.go:47]2020/07/27 19:40:00 [Username.Required. Username Can not be empty]
+[INFO][auth.go:47]2020/07/27 19:40:00 [Password.Required. Password Can not be empty]
+[INFO][main.go:29]2020/07/27 20:05:36 [Server err: %v net.Listen error: listen tcp :8000: bind: address already in use]
+[INFO][main.go:29]2020/07/27 20:06:54 [Server err: %v net.Listen error: listen tcp :8000: bind: address already in use]

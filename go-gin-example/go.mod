@@ -5,6 +5,7 @@ go 1.13
 require (
 	github.com/astaxie/beego v1.12.2
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/fvbock/endless v0.0.0-20170109170031-447134032cb6 // indirect
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-ini/ini v1.57.0
 	github.com/go-playground/validator/v10 v10.3.0 // indirect
@@ -19,7 +20,7 @@ replace (
 	github.com/EDDYCJY/go-gin-example/conf => /Users/rl0408/work/code/go-application/go-gin-example/pkg/conf
 	github.com/EDDYCJY/go-gin-example/middleware => /Users/rl0408/work/code/go-application/go-gin-example/middleware
 	github.com/EDDYCJY/go-gin-example/models => /Users/rl0408/work/code/go-application/go-gin-example/models
-	github.com/EDDYCJY/go-gin-example/pkg/e => /Users/rl0408/work/code/go-application/go-gin-example/pkg/e
+	github.com/EDDYCJY/go-gin-example/pkg/e => /Users/rl0408/work/code/go-application/go-gin-example/pkg/logging
 	github.com/EDDYCJY/go-gin-example/pkg/setting => /Users/rl0408/work/code/go-application/go-gin-example/pkg/setting
 	github.com/EDDYCJY/go-gin-example/pkg/util => /Users/rl0408/work/code/go-application/go-gin-example/pkg/util
 	github.com/EDDYCJY/go-gin-example/routers => /Users/rl0408/work/code/go-application/go-gin-example/routers
